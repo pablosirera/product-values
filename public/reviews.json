@@ -1,0 +1,46 @@
+{
+  "reviews": [
+    {
+      "rating": 5,
+      "author": "Cristina",
+      "date": "2018-08-13T22:05:30+0100",
+      "comment": "Nunca había probado esta bebida y la verdad es que el producto está riquísimo!! Repetiré fijo!",
+      "useful_count": 4
+    },
+    {
+      "rating": 4,
+      "author": "Ruth",
+      "date": "2017-10-10T19:15:22+0100",
+      "comment": "Me gusta mucho esta bebida, no es excesivamente dulce (y eso q mi me gusta). La como con cereales, algarroba, té chai... La recomiendo.",
+      "useful_count": 3
+    },
+    {
+      "rating": 3,
+      "author": "Renata",
+      "date": "2015-05-25T11:32:52+0100",
+      "comment": "Conozco el producto y por eso lo he encargado. Lo único es que los plazos de entrega me parecen muy largos. Por lo demás todo muy bien. ",
+      "useful_count": 3
+    },
+    {
+      "rating": 5,
+      "author": "Carmen",
+      "date": "2015-03-16T21:01:05+0100",
+      "comment": "Producto muy natural y muy cuidado en todos los aspectos. Cumple con normativas exigidas. Solo puedo decir que comparando con otras marcas es excelente.",
+      "useful_count": 3
+    },
+    {
+      "rating": 5,
+      "author": "Carmen",
+      "date": "2015-03-16T21:01:05+0100",
+      "comment": "Producto muy natural y muy cuidado en todos los aspectos. Cumple con normativas exigidas. Solo puedo decir que comparando con otras marcas es excelente.",
+      "useful_count": 3
+    },
+    {
+      "rating": 3,
+      "author": "Carmen",
+      "date": "2019-04-12T02:06:31+0100",
+      "comment": "Riquisimo.Nos gusta a tod@s en casa .",
+      "useful_count": 3
+    }
+  ]
+}
